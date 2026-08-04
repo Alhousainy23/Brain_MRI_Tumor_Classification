@@ -1,10 +1,3 @@
-(base) C:\Users\Alhou>conda activate cv_nlp
-
-(cv_nlp) C:\Users\Alhou>cd /d "D:\AI\Elvorix Diploma\3. Deep Learning\5. Final Project\Code"
-
-(cv_nlp) D:\AI\Elvorix Diploma\3. Deep Learning\5. Final Project\Code>python src\compare_models.py
-
-
 ============================================================
 BRAIN MRI TUMOR CLASSIFICATION
 MODEL COMPARISON
